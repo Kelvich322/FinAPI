@@ -12,7 +12,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone
+git clone https://github.com/Kelvich322/FinAPI.git
 cd FinAPI
 ```
 
